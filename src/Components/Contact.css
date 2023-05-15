@@ -1,0 +1,20 @@
+*{
+    font-family: cursive;
+}
+.main_flex{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+    font-size: 30px;
+    flex-wrap: wrap;
+   
+}
+.contact-form{
+ background: url('../assets/contackbg1.jpg')  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 90vh;
+    width: 50vw;
+    opacity: 0.6;
+}
